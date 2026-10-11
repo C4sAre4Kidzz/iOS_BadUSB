@@ -8,6 +8,6 @@ ENTER
 
 REM Enter the Link URL and Visit
 DELAY 1000
-STRING "link address here"
+STRING "geekprank.com"
 DELAY 500
 ENTER
